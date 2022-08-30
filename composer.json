@@ -2,7 +2,7 @@
     "name": "bearcorps/seatgeekhelper",
     "autoload": {
         "psr-4": {
-            "Bearcorps\\Seatgeekhelper\\": "src/"
+            "Bearcorps\\SeatGeekHelper\\": "src/"
         }
     },
     "authors": [
