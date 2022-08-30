@@ -1,0 +1,15 @@
+{
+    "name": "bearcorps/seatgeekhelper",
+    "autoload": {
+        "psr-4": {
+            "Bearcorps\\Seatgeekhelper\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Nic Barr",
+            "email": "code@bearlovescode.com"
+        }
+    ],
+    "require": {}
+}
